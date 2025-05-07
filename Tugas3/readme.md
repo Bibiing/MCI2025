@@ -16,7 +16,7 @@ Tantangan kali ini adalah membuat model Neural Network dengan tujuan untuk mempr
 6. Evaluasi: Menggunakan metrik Root Mean Squared Error (RMSE) untuk menilai peforma model.
 
 Dengan Kerangka kerja ini, diharapkan model Neural Network yang dikembangkan mampu memberikan prediksi nilai pasar pemain dalam euro dengan tingkatan akurasi yang baik.  
-[Our notebook on Kaggle](https://www.kaggle.com)
+[Our notebook](./Tugas_Modul4.ipynb)
 
 ## EDA
 
